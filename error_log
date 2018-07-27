@@ -1,0 +1,100 @@
+[25-Jul-2018 00:06:16 America/New_York] PHP Warning:  parse_ini_file(/home/jrxsyzeu/public_html/admintest/dmslocal/.config.ini): failed to open stream: No such file or directory in /home/jrxsyzeu/public_html/admintest/index.php on line 8
+[25-Jul-2018 00:06:16 America/New_York] PHP Warning:  require_once(/home/jrxsyzeu/public_html/admintest/dmslocal/view/pageheader.php): failed to open stream: No such file or directory in /home/jrxsyzeu/public_html/admintest/index.php on line 11
+[25-Jul-2018 00:06:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/jrxsyzeu/public_html/admintest/dmslocal/view/pageheader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jrxsyzeu/public_html/admintest/index.php on line 11
+[25-Jul-2018 00:09:07 America/New_York] PHP Warning:  parse_ini_file(/home/jrxsyzeu/public_html/admintest/dmslocal/.config.ini): failed to open stream: No such file or directory in /home/jrxsyzeu/public_html/admintest/index.php on line 8
+[25-Jul-2018 00:09:07 America/New_York] PHP Warning:  require_once(/home/jrxsyzeu/public_html/admintest/dmslocal/view/pageheader.php): failed to open stream: No such file or directory in /home/jrxsyzeu/public_html/admintest/index.php on line 11
+[25-Jul-2018 00:09:07 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/jrxsyzeu/public_html/admintest/dmslocal/view/pageheader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jrxsyzeu/public_html/admintest/index.php on line 11
+[25-Jul-2018 00:10:37 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jrxsyzeu_ernesto'@'localhost' (using password: YES) in /home/jrxsyzeu/public_html/admintest/model/dbconnector/clsMyDBConn.php on line 17
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 18:39:49 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:04 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:07 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:23 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:00:33 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:02:33 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:03:43 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:24 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:04:28 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:41 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:06:44 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:16:46 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
+[25-Jul-2018 19:17:15 America/New_York] PHP Warning:  session_name(): session.name cannot be a numeric or empty '' in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 288
+[25-Jul-2018 19:17:15 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:15 America/New_York] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 431
+[25-Jul-2018 19:17:15 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/SessMemHD.php on line 20
+[25-Jul-2018 19:17:19 America/New_York] PHP Warning:  session_name(): session.name cannot be a numeric or empty '' in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 288
+[25-Jul-2018 19:17:19 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:19 America/New_York] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 431
+[25-Jul-2018 19:17:19 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/SessMemHD.php on line 20
+[25-Jul-2018 19:17:42 America/New_York] PHP Warning:  session_name(): session.name cannot be a numeric or empty '' in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 288
+[25-Jul-2018 19:17:42 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:42 America/New_York] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 431
+[25-Jul-2018 19:17:42 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php on line 289
+[25-Jul-2018 19:17:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jrxsyzeu/public_html/admintest/model/userauth/Zebra_Session.php:288) in /home/jrxsyzeu/public_html/admintest/model/userauth/SessMemHD.php on line 20
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Undefined variable: lblLANG in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 143
+[25-Jul-2018 19:17:53 America/New_York] PHP Notice:  Use of undefined constant PARTNER - assumed 'PARTNER' in /home/jrxsyzeu/public_html/admintest/view/pageheader.php on line 322
