@@ -28,7 +28,7 @@ $lblSendPasswordResetLink = $objLabel->get_Label("lblSendPasswordResetLink", 2);
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta content="" name="description" />
         <meta content="themes-lab" name="author" />
-        <link rel="shortcut icon" href="assets/images/favicon.png">
+        <link rel="shortcut icon" href="assets/images/icon.png">
         <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
         <link rel="stylesheet" type="text/css" href="assets/css/ui.css"/>
         <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap-loading/lada.min.css"/>
@@ -36,7 +36,9 @@ $lblSendPasswordResetLink = $objLabel->get_Label("lblSendPasswordResetLink", 2);
     <body class="account2" data-page="login">
         <!-- BEGIN LOGIN BOX -->
         <div class="container" id="login-block">
+            <!--
             <i class="user-img icons-faces-users-03" style="opacity: 0;"></i>
+            
             <div class="account-info">
                 <a href="dashboard.html" class="logo"></a>
                 <h3>Modular &amp; Flexible Admin.</h3>
@@ -47,6 +49,7 @@ $lblSendPasswordResetLink = $objLabel->get_Label("lblSendPasswordResetLink", 2);
                     <li><i class="icon-drop"></i> Colors options</li>
                 </ul>
             </div>
+            -->
             <div class="account-form">
                 <form class="form-signin" role="form">
                     <h3><strong><?=$lblSignIn?></strong> <?=$lblToYourAccount?></h3>

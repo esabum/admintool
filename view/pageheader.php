@@ -30,7 +30,7 @@ $lblAvailable = $objLabel->get_Label("lblAvailable", $SelLang);
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
         <meta name="description" content="Test">
 
-        <link rel="icon" type="image/png" href="/assets/images/lc-icon.png">
+        <link rel="icon" type="image/png" href="/assets/images/icon.png">
         <title>Test</title>
         <link href="http://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet" type="text/css">
 

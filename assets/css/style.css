@@ -6972,7 +6972,7 @@ body:not(.fixed-topbar) .main-content .page-content {
     height: 100%;
     margin: auto;
     position: relative;
-    width: 670px;
+    width: 100%;
   }
   .account2 .account-info {
     background: #319DB5;
@@ -7015,9 +7015,17 @@ body:not(.fixed-topbar) .main-content .page-content {
   .account2 .account-form {
     display: table-cell;
     vertical-align: top;
-    width: 57%;
+    /*width: 57%;*/
   }
 }
+.container{
+    display: table;
+}
+.account-form {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 @media (max-width: 800px) {
   .account #lockscreen-block .user-image {
     float: none;
