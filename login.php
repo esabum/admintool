@@ -50,42 +50,45 @@ $lblSendPasswordResetLink = $objLabel->get_Label("lblSendPasswordResetLink", 2);
                 </ul>
             </div>
             -->
-            <div class="account-form">
-                <form class="form-signin" role="form">
-                    <h3><strong><?=$lblSignIn?></strong> <?=$lblToYourAccount?></h3>
-                    <div class="append-icon">
-                        <input type="text" id="username" class="form-control form-white username" placeholder="Username" required>
-                        <i class="icon-user"></i>
-                    </div>
-                    <div class="append-icon m-b-20">
-                        <input type="password" name="password" class="form-control form-white password" placeholder="Password" required>
-                        <i class="icon-lock"></i>
-                        <label id="auth-error" class="error" for="password"></label>
-                        <input type="hidden" id="lblAuthError" name="lblAuthError" value="<?=$lblAuthError?>"/>
-                        <div id="login_status"></div>
-                    </div>
-                    <button type="submit" id="submit-form" class="btn btn-lg btn-dark btn-rounded ladda-button" data-style="expand-left"><?=$lblSignIn?></button>
-                    <span class="forgot-password"><a id="password" href="account-forgot-password.html"><?=$lblForgotPassword?></a></span>
-                    <div class="form-footer">
-                        <div class="clearfix">
-                            <p class="new-here"><a href="#">&nbsp;</a></p>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-6">
+                <div class="account-form">
+                    <form class="form-signin" role="form">
+                        <h3><strong><?=$lblSignIn?></strong> <?=$lblToYourAccount?></h3>
+                        <div class="append-icon">
+                            <input type="text" id="username" class="form-control form-white username" placeholder="Username" required>
+                            <i class="icon-user"></i>
                         </div>
-                    </div>
-                </form>
-                <form class="form-password" role="form">
-                    <h3><strong><?=$lblReset?></strong> <?=$lblYourPassword?></h3>
-                    <div class="append-icon m-b-20">
-                        <input type="text" id="resetname" class="form-control form-white username" placeholder="Username" required>
-                        <i class="icon-user"></i>
-                    </div>
-                    <button type="submit" id="submit-password" class="btn btn-lg btn-danger btn-block ladda-button" data-style="expand-left"><?=$lblSendPasswordResetLink?></button>
-                    <span class="forgot-password"><a id="password" href="account-forgot-password.html"><?=$lblForgotPassword?></a></span>
-                    <div class="clearfix m-t-60">
-                        <p class="pull-left m-t-20 m-b-0"><a id="login" href="#"><?=$lblHaveAnAccount?> <?=$lblSignIn?></a></p>
-                        <!--<p class="pull-right m-t-20 m-b-0">&nbsp;<a href="#">&nbsp;</a></p>-->
-                    </div>
-                </form>
-            </div>
+                        <div class="append-icon m-b-10">
+                            <input type="password" name="password" class="form-control form-white password" placeholder="Password" required>
+                            <i class="icon-lock"></i>
+                            <label id="auth-error" class="error" for="password"></label>
+                            <input type="hidden" id="lblAuthError" name="lblAuthError" value="<?=$lblAuthError?>"/>
+                            <div id="login_status"></div>
+                        </div>
+                        <button type="submit" id="submit-form" class="btn btn-lg btn-dark btn-block" data-style="expand-left"><?=$lblSignIn?></button>
+                        <!--<span class="forgot-password"><a id="password" href="#"><?=$lblForgotPassword?></a></span>-->
+                        <div class="clearfix text-center">
+                            <span class=""><a id="password" href="#"><?=$lblForgotPassword?></a></span>
+                            <!--<p class="pull-right m-t-20 m-b-0">&nbsp;<a href="#">&nbsp;</a></p>-->
+                        </div>                        
+                    </form>
+                    <form class="form-password" role="form">
+                        <h3><strong><?=$lblReset?></strong> <?=$lblYourPassword?></h3>
+                        <div class="append-icon m-b-10">
+                            <input type="text" id="resetname" class="form-control form-white username" placeholder="Username" required>
+                            <i class="icon-user"></i>
+                        </div>
+                        <button type="submit" id="submit-password" class="btn btn-lg btn-danger btn-block" data-style="expand-left"><?=$lblSendPasswordResetLink?></button>
+                        <!--<span class="forgot-password"><a id="password" href="account-forgot-password.html"><?=$lblForgotPassword?></a></span>-->
+                        <div class="clearfix text-center">
+                            <span class=""><a id="login" href="#"><?=$lblHaveAnAccount?> <?=$lblSignIn?></a></span>
+                            <!--<p class="pull-right m-t-20 m-b-0">&nbsp;<a href="#">&nbsp;</a></p>-->
+                        </div>
+                    </form>
+                </div>
+            </div>    
+            <div class="col-sm-3"></div>                
         </div>
         <!-- END LOCKSCREEN BOX -->
         <p class="account-copyright">

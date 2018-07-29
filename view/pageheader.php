@@ -87,7 +87,7 @@ require_once APPROOT . '/view/page_nav-sidebar.php';
 ?>
                     </ul>
                     <div class="sidebar-footer clearfix">
-                        <a class="pull-left footer-settings" href="/<?=APPBASE?>/users/settings.php" data-rel="tooltip" data-placement="top" data-original-title="<?= $lblAccountSettings ?>">
+                        <a class="pull-left footer-settings" href="/<?=APPBASE?>users/settings.php" data-rel="tooltip" data-placement="top" data-original-title="<?= $lblAccountSettings ?>">
                             <i class="icon-settings"></i>
                         </a>
                         <a class="pull-left toggle_fullscreen" href="#" data-rel="tooltip" data-placement="top" data-original-title="Fullscreen">
@@ -338,7 +338,7 @@ if ($objLang->get_Count() > 0) {
                             </li>
                             <!-- END USER DROPDOWN -->
                             <!-- CHAT BAR ICON -->
-                            <li id="quickview-toggle"><a href="#"><i class="fas fa-plus fa-1"></i></a></li>
+                            <!--<li id="quickview-toggle"><a href="#"><i class="fas fa-plus fa-1"></i></a></li>-->
                         </ul>
                     </div>
                     <!-- header-right -->

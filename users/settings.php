@@ -269,7 +269,7 @@ require_once APPROOT . '/view/pagefooter.php';
         var aConf = jQuery('body').attr('class').split(' ');
         jQuery('.theme, .theme-color, .bg-color').removeClass('active');
         jQuery(aConf).each(function (i) {
-            console.log(i);
+            //console.log(i);
             switch (aConf[i]) {
                 case 'fixed-sidebar':
                     jQuery('#switch-sidebar').attr('checked', 'checked');

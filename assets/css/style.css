@@ -1565,7 +1565,7 @@ body:not(.sidebar-collapsed) .topbar .header-left .topnav .menutoggle:hover .men
   margin: 0;
 }
 .sidebar .logopanel h1 a {
-  background: url(../images/logo/logo-white.svg) no-repeat;
+  background: url(/assets/images/magnifier.svg) no-repeat;
   background-position: center;
   display: block;
   height: 31px;
@@ -6527,8 +6527,8 @@ body:not(.fixed-topbar) .main-content .page-content {
   width: 100%;
 }
 .account .form-signin {
-  margin: 0 auto;
-  max-width: 330px;
+  margin:15px;
+  /*max-width: 330px;*/
 }
 .account .form-signin .form-control:focus {
   z-index: 2;
@@ -6733,6 +6733,7 @@ body:not(.fixed-topbar) .main-content .page-content {
   width: 100%;
 }
 .account2 .container {
+  padding: 10%;
   width: 100%;
 }
 .account2 .user-img {
@@ -6969,7 +6970,7 @@ body:not(.fixed-topbar) .main-content .page-content {
 }
 @media (min-width: 768px) {
   .account2 .container {
-    height: 100%;
+    height: 900%;
     margin: auto;
     position: relative;
     width: 100%;
@@ -6989,7 +6990,7 @@ body:not(.fixed-topbar) .main-content .page-content {
     font-family: 'Lato', arial, sans-serif;
     font-weight: 900;
     font-size: 25px;
-    background: url(../images/logo/logo-white.svg) no-repeat;
+    background: url(/assets/images/magnifier.svg) no-repeat;
     height: 31px;
     margin-bottom: 15px;
     display: block;
@@ -7012,19 +7013,8 @@ body:not(.fixed-topbar) .main-content .page-content {
   .account2 .account-info ul li i {
     padding-right: 8px;
   }
-  .account2 .account-form {
-    display: table-cell;
-    vertical-align: top;
-    /*width: 57%;*/
-  }
 }
-.container{
-    display: table;
-}
-.account-form {
-    display: table-cell;
-    vertical-align: middle;
-}
+
 
 @media (max-width: 800px) {
   .account #lockscreen-block .user-image {
